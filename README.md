@@ -1,6 +1,5 @@
-# STT TTS GPS WEATHER 어플 구현입니다    ( 배포 X 공부용 )
- front 김건
- back 이창희
+# STT TTS 메모장 어플 구현입니다    ( 배포 X 공부용 )
+ 제작 :  김건 이창희
  
  ## source
  + MAIN = app%main%java%com.example.voiceex%MainActivity
