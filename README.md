@@ -5,7 +5,7 @@
 
 #### 개발툴 : 안드로이드 스튜디오 
 #### 언어   : 자바 코틀린 자바스크립트
-#### 배포 X 
+#### 배포 X  
 
 #### 중요파일 
  + MAIN = app%main%java%com.example.voiceex%MainActivity
